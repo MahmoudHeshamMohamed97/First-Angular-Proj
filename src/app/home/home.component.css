@@ -1,0 +1,14 @@
+h2 span{
+    color: blue;
+    transition: 0.7s all;
+}
+h2 span:hover{
+    color: yellow;
+}
+p span{
+    color: blue;
+    transition: 0.7s all;
+}
+p span:hover{
+    color: yellow;
+}

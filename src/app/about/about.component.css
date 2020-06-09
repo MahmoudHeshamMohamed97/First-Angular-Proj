@@ -1,0 +1,7 @@
+p span{
+    color: blueviolet;
+    transition: 0.5s all;
+}
+p span:hover{
+    color: yellow;
+}

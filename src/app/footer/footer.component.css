@@ -1,0 +1,18 @@
+.row a{
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+    transition: 0.3s all;
+}
+.row .bluewhite:hover{
+    color: #09c;
+}
+.row .blue:hover{
+    color: blue;
+}
+.row .red:hover{
+    color: red;
+}
+.footer{
+    background-color: teal;
+}
